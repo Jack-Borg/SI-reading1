@@ -1,4 +1,4 @@
-# REpresentational State Transfer
+# Representational State Transfer
 
 ## 1. What exactly is REST? How does the context of it fits to the title of the dissertation?
 
